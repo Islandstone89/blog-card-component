@@ -99,13 +99,13 @@ body {
     background-color: var(--clr--body);
     color: var(--clr--main);
     font-family: var(--ff--primary);
+    padding: 1.5rem 1rem;
 }
 
 .blog-card {
     background-color: var(--clr--secondary);
     border-radius: .625rem;
     max-width: 22rem;
-    margin: 1rem;
 }
 
 .image {
